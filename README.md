@@ -35,7 +35,7 @@
 ![MSD](https://images.thequint.com/thequint%2F2021-04%2F15d4fcf5-7c0e-481e-9dc6-37e444c58fef%2FIPL21M8_55.JPG?rect=0%2C0%2C3872%2C2178)
 
 # KING KOHLI
-<!-- ![KING](https://i.imgur.com/eG6zM7b.jpg) -->
+ ![KING](https://i.imgur.com/eG6zM7b.jpg) 
 
 ### RCB RETENTION
 S.NO  |  NAME
@@ -68,6 +68,7 @@ king kohli [^1].
 
 
 ![rr](https://www.youtube.com/watch?v=Xsgz7Q0iWzA)
+![img](
 
 
 
