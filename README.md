@@ -61,7 +61,11 @@ S.NO  |  NAME
      - Second nested list item
 
 
-Here is a simple footnote[^1].
+king kohli [^1].
+
+[^1]: ![KING](https://i.imgur.com/eG6zM7b.jpg)
+
+
 
 
 
